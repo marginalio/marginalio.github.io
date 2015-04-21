@@ -1,2 +1,1 @@
-# marginalio.github.io
-Landing page for marginal.io
+# Marketing site for marginal.io

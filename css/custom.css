@@ -1,0 +1,208 @@
+body, p {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #34495e;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted #eee;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+h1, h2, h3, h4, h5, h6, label {
+  color: inherit;
+  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+.logo-img {
+  height: 108px;
+  display: inline-block;
+}
+
+.content-head {
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.splash-container {
+  background: url('../img/splashimage.jpg') no-repeat;
+  background-size: cover;
+  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.splash {
+  top: 30%;
+  width: auto;
+  height: auto;
+}
+
+.splash-head {
+  display: inline-block;
+  color: #fff;
+  font-weight: 700;
+  border: 0;
+  font-size: 10em;
+  padding: 0;
+  margin: 0;
+  text-transform: none;
+  text-shadow: 0px 1px 27px #34495e;
+}
+
+.splash-subhead {
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-shadow: 2px 2px 2px #34495e;
+}
+
+.pure-menu-horizontal .pure-menu-item, .pure-menu-horizontal .pure-menu-heading, .pure-menu-horizontal .pure-menu-separator {
+  float: left;
+}
+
+.home-menu {
+  background: #33cd5f;
+  font-size: 0.8em;
+}
+
+.home-menu a {
+  color: #fff;
+}
+
+.home-menu li a:hover, .home-menu li a:focus {
+  color: #fff;
+  opacity: 0.8;
+}
+
+a.pure-button-primary, .pure-button {
+  padding: absolute;
+  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-shadow: -1px -1px 1px #605CA8;
+}
+
+a.pure-button-primary {
+  color: #fff;
+  background: #7BCDC8;
+  font-size: 120%;
+  font-weight: 700;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #34495e;
+}
+
+.pure-button {
+  background-color: #33cd5f;
+  color: white;
+  padding: 0.5em 2em;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px #006D1E;
+}
+
+.photo {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px #34495e;
+}
+
+.l-box {
+  position: relative;
+  text-align: center;
+}
+
+.content-about {
+  box-shadow: 1px 1px 10px #34495e;
+}
+
+.content-subhead {
+  color: #fff;
+  position: absolute;
+  padding: 1em;
+  background: rgba(122, 204, 200, 0.8);
+  left: 16px;
+  right: 16px;
+  top: -8px;
+  text-shadow: -1px -1px 1px #006D1E;
+  border-radius: 10px 10px 0 0;
+}
+
+.ribbon {
+  font-size: 1.5em;
+  background: #7BCDC8;
+  color: #34495e;
+}
+
+.count {
+  font-weight: 700;
+  padding: 10px 14px;
+  background: #fff;
+  border-radius: 100%;
+  box-shadow: 1px 1px 5px #34495e;
+}
+
+.footer {
+  font-size: 0.8em;
+  background: #7BCDC8;
+  color: #34495e;
+}
+
+.trio {
+  display: block;
+  margin: 0 auto;
+}
+
+.headshot {
+  width: 210px;
+  height: 210px;
+  margin: 0 auto 1.5em;
+  border-radius: 100%;
+  box-shadow: 1px 1px 5px #34495e;
+}
+
+.stephanie {
+  background: url('../img/stephanie-higa.jpg') no-repeat center center;
+}
+
+.jason {
+  background: url('../img/jason-ly.jpg') no-repeat top center;
+}
+
+.conor {
+  background: url('../img/conor-flannigan.jpg') no-repeat top center;
+}
+
+.david {
+  background: url('../img/david.jpeg') no-repeat top center;
+}
+
+.tony {
+  background: url('../img/tony.jpeg') no-repeat top center;
+}
+
+.michael {
+  background: url('../img/michael.jpeg') no-repeat top center;
+}
+
+.chad {
+  background: url('../img/chad.jpeg') no-repeat top center;
+}
+
+hr {
+  border-width: 1px 0 0 0;
+  border-color: #33cd5f;
+  border-style: dotted;
+  width: 80%;
+}
+
+.small-margin {
+  margin: 0.5em;
+}
